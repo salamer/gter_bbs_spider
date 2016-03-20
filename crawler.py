@@ -20,15 +20,13 @@ def get_link(url):
     return_list=[]
 
     for item in url_list:
-        if 'viewthread' in item['href']:
+        if 'viewthread' in item['href'] and 'extra' in item['href']:
             if item['href'] not in return_list:
                 return_list.append(item['href'])
 
     return return_list
 
 def get_personal_data(url):
-
-
 
     res=requests.get(url)
     soup=BeautifulSoup(res.text)

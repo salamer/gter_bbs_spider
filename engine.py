@@ -15,7 +15,8 @@ def asyn_fetch(url_list):
     gevent.joinall(greenlets)
 
 if __name__=="__main__":
-    for number in range(1,292):
-        start_url=start_url+str(number)
-        url_list=crawler.get_link(start_url)
-        asyn_fetch(url_list)
+#    for number in range(1,292):
+#        start_url=start_url+str(number)
+    start_url=start_url+str(1)
+    url_list=crawler.get_link(start_url)
+    asyn_fetch(url_list)
