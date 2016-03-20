@@ -5,7 +5,8 @@ import gevent
 
 import crawler
 
-start_url="http://bbs.gter.net/forum.php?mod=forumdisplay&fid=49&typeid=158&filter=typeid&typeid=158&page=2"
+start_url="http://bbs.gter.net/forum.php?mod=forumdisplay&fid=49&typeid=158&filter=typeid&typeid=158&page="
+
 
 def asyn_fetch(url_list):
     greenlets=[]
@@ -14,6 +15,7 @@ def asyn_fetch(url_list):
     gevent.joinall(greenlets)
 
 if __name__=="__main__":
-
-    url_list=crawler.get_link(start_url)
-    asyn_fetch(url_list)
+    for number in range(1,292):
+        start_url=start_url+str(number)
+        url_list=crawler.get_link(start_url)
+        asyn_fetch(url_list)
