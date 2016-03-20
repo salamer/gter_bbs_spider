@@ -4,7 +4,7 @@ sys.setdefaultencoding( "utf-8" )
 
 
 from mongoengine import *
-connect('gter_bbs')
+connect('my_gter_bbs')
 
 class personal_status(Document):
     applied_school=StringField()
