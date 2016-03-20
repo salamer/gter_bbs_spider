@@ -105,7 +105,7 @@ def get_personal_data(url):
 
         new_data=personal_status(
             toefl=toefl,
-            gre=gre
+            gre=gre,
             undergraduate_school=undergraduate_school,
             undergraduate_subject=undergraduate_subject,
             gpa=gpa,
