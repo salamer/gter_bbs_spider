@@ -1,0 +1,138 @@
+
+申请学校:
+New York University     : 1446
+Boston University       : 1167
+Columbia University     : 1159
+University of Washington: 1158
+Johns Hopkins University: 1156
+Cornell University      :  969
+(Other)                 :24926
+
+
+学位:
+MS     :11620
+PhD    : 9548
+MA     : 8366
+MFA    :  578
+MID    :  578
+JD     :  291
+(Other): 1000
+
+专业:
+Chemistry                                : 3477
+Economics and Econometrics               : 2605
+Computer Science                         : 1734
+Bioengineering and Biomedical Engineering: 1722
+Mechanical Engineering                   : 1449
+Chemical Engineering                     : 1446
+(Other)                                  :19548
+
+申请结果:
+被拒  :10241
+AD无奖:11652
+AD小奖: 3198
+offer : 6890
+NA
+NA
+NA
+Min.   :2015
+1st Qu.:2016
+Median :2016
+Mean   :2016
+3rd Qu.:2016
+Max.   :2016
+NA
+
+入学年份:
+Fall  :30823
+Spring:    1
+Summer: 1157
+NA
+NA
+NA
+NA
+
+入学学期:
+2016-03-08: 2313
+2016-03-10: 2024
+2016-03-18: 1734
+2016-03-19: 1547
+2016-03-16: 1445
+2016-03-05: 1157
+(Other)   :21761
+
+toefl:                                                                                                                                : 6544
+Overall: 107,
+                    R:  /
+                    L:  /
+                    S:  /
+                    W:         : 2312
+Overall: 106,
+                    R: 26 /
+                    L: 26 /
+                    S: 28 /
+                    W: 26: 2023
+Overall: 102,
+                    R: 30 /
+                    L: 30 /
+                    S: 19 /
+                    W: 23: 1734
+Overall: 104,
+                    R: 29 /
+                    L: 26 /
+                    S: 22 /
+                    W: 27: 1734
+Overall: 100,
+                    R: 25 /
+                    L: 29 /
+                    S: 22 /
+                    W: 24: 1445
+(Other)                                                                                                                         :16189
+                                                                                                       : 3961
+Overall: 323,
+                    V: 155 /
+                    Q: 168 /
+                    AW: 3.5: 2312
+Overall: 326,
+                    V: 158 /
+                    Q: 168 /
+                    AW: 3.0: 1740
+Overall: 330,
+                    V: 160 /
+                    Q: 170 /
+                    AW: 3  : 1734
+Overall: 322,
+                    V: 152 /
+                    Q: 170 /
+                    AW: 3  : 1452
+Overall: 319,
+                    V: 149 /
+                    Q: 170 /
+                    AW: 3.0: 1445
+(Other)                                                                                                :19337
+
+本科学校档次:
+211 & 985                                      :7048
+211                                            :5522
+双非                                           :4759
+                                               :3014
+浙大/复旦/南大/南开/武大/华中科大/上海交大/天大:2322
+复旦大学                                       :2312
+(Other)                                        :7004
+
+本科专业:
+                        : 3201
+社会工作                : 2312
+英语                    : 2028
+贸易经济，市场营销辅修。: 1734
+Chemistry               : 1734
+信息管理与信息系统      : 1686
+(Other)                 :19286
+                         : 4934
+3.49（WES）              : 2023
+3.4（WES 3.61）辅修是3.62: 1734
+3.87, 2/20               : 1734
+3.42                     : 1445
+3.85/WES                 : 1445
+(Other)                  :18666
+                                                                                                                                                                                                                      : 9960
