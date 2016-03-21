@@ -7,7 +7,7 @@ import crawler
 
 import time
 
-start_url="http://bbs.gter.net/forum.php?mod=forumdisplay&fid=49&typeid=158&filter=typeid&typeid=158&page="
+from config import start_url,page_number
 
 
 def asyn_fetch(url_list):
@@ -18,7 +18,7 @@ def asyn_fetch(url_list):
 
 if __name__=="__main__":
     start_time=time.time()
-    for number in range(1,292):
+    for number in page_number:
         start_url=start_url+str(number)
         url_list=crawler.get_link(start_url)
         asyn_fetch(url_list)
