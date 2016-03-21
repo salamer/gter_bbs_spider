@@ -12,13 +12,13 @@
 
 ******
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 然后你去`config.py`，修改你的开始页面的url和页码，非常简单的配置，还有配置你的mongodb的collection名称
 
 然后执行：
 
-  python engine.py
+    python engine.py
 
 
 即可
