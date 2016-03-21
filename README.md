@@ -8,6 +8,8 @@
 
 爬虫使用了`gevent`异步进行，使用mongodb做最后的数据库存储，然后将内容导出成csv文件
 
+__爬取下来的数据是：`go_america_to_study_data.csv`文件，希望大家好好利用好__
+
 ###usage
 
 ******
