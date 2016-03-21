@@ -46,6 +46,7 @@ def get_personal_data(url):
         undergraduate_school=''
         undergraduate_subject=''
         gpa=''
+        other_info=''
 
 
         td_list=status.find_all('td')
@@ -61,6 +62,8 @@ def get_personal_data(url):
                 undergraduate_subject=td_list[i].get_text().strip()
             if item.get_text()=="本科成绩和算法、排名:":
                 gpa=td_list[i].get_text().strip()
+            if item.get_text()=="其他说明:":
+                other_info=td_list[i].get_text().strip()
             i=i+1
 
 
@@ -107,6 +110,8 @@ def get_personal_data(url):
             undergraduate_school=undergraduate_school,
             undergraduate_subject=undergraduate_subject,
             gpa=gpa,
+            other_info=other_info,
+
             applied_school=applied_school,
             degree=degree,
             subject=subject,
