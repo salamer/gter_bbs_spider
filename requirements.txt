@@ -1,0 +1,5 @@
+mongoengine
+requests
+pandas
+gevent
+bs4
