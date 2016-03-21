@@ -1,10 +1,11 @@
 import sys
 reload(sys)
 sys.setdefaultencoding( "utf-8" )
+from config import db_name
 
 
 from mongoengine import *
-connect('go_to_america_data')
+connect(db_name)
 
 class personal_status(Document):
     applied_school=StringField()
