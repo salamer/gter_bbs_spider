@@ -7,10 +7,13 @@ sys.setdefaultencoding( "utf-8" )
 
 import csv
 from db import personal_status
+import time
 
 with open('go_america_to_study_data.csv',"wb") as f:
+    start_time=time.time()
     csv_writer=csv.writer(f)
-    csv.writerow(['申请学校',
+    csv_writer.writerow([
+                '申请学校',
                 '学位',
                 '专业',
                 '申请结果',
@@ -25,7 +28,7 @@ with open('go_america_to_study_data.csv',"wb") as f:
                 '其他说明',
                 'url'])
     for status in personal_status.objects:
-        csv.writerow([
+        csv_writer.writerow([
             status.applied_school,
             status.degree,
             status.subject,
@@ -41,3 +44,4 @@ with open('go_america_to_study_data.csv',"wb") as f:
             status.other_info,
             status.url
         ])
+    print "to csv,it cost:",time.time()-start_time

@@ -123,17 +123,3 @@ def get_personal_data(url):
         )
 
         new_data.save()
-
-        '''
-
-        print "toefl:",toefl
-        print "gre:",gre
-        print "undergraduate_school",undergraduate_school
-        print "undergraduate_subject",undergraduate_subject
-        print "gpa:",gpa
-        print "applied_school",applied_school
-        print "degree",degree
-        print "subject",subject
-        print "applied_result",applied_result
-
-        '''
