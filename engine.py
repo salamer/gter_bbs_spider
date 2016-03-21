@@ -19,9 +19,10 @@ def asyn_fetch(url_list):
 if __name__=="__main__":
     start_time=time.time()
     for number in page_number:
-        start_url=start_url+str(number)
-        url_list=crawler.get_link(start_url)
+        the_url=start_url+str(number)
+        url_list=crawler.get_link(the_url)
         asyn_fetch(url_list)
+        print the_url
 
     end_time=time.time()
 
