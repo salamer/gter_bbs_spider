@@ -13,6 +13,23 @@ __爬取下来的数据是：`go_america_to_study_data.csv`文件，希望大家
 ###usage
 
 ******
+安装mongodb：
+
+MacOS:
+
+    brew install mongodb
+
+Linux:
+
+Ubuntu/debian:
+
+    sudo apt-get install mongodb
+
+CentOS:
+
+    sudo yum install mongodb
+
+安装 `python`包依赖：
 
     pip install -r requirements.txt
 
