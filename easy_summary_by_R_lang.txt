@@ -1,138 +1,43 @@
-
-申请学校:
-New York University     : 1446
-Boston University       : 1167
-Columbia University     : 1159
-University of Washington: 1158
-Johns Hopkins University: 1156
-Cornell University      :  969
-(Other)                 :24926
-
-
-学位:
-MS     :11620
-PhD    : 9548
-MA     : 8366
-MFA    :  578
-MID    :  578
-JD     :  291
-(Other): 1000
-
-专业:
-Chemistry                                : 3477
-Economics and Econometrics               : 2605
-Computer Science                         : 1734
-Bioengineering and Biomedical Engineering: 1722
-Mechanical Engineering                   : 1449
-Chemical Engineering                     : 1446
-(Other)                                  :19548
-
-申请结果:
-被拒  :10241
-AD无奖:11652
-AD小奖: 3198
-offer : 6890
-NA
-NA
-NA
-Min.   :2015
-1st Qu.:2016
-Median :2016
-Mean   :2016
-3rd Qu.:2016
-Max.   :2016
-NA
-
-入学年份:
-Fall  :30823
-Spring:    1
-Summer: 1157
-NA
-NA
-NA
-NA
-
-入学学期:
-2016-03-08: 2313
-2016-03-10: 2024
-2016-03-18: 1734
-2016-03-19: 1547
-2016-03-16: 1445
-2016-03-05: 1157
-(Other)   :21761
-
-toefl:                                                                                                                                : 6544
-Overall: 107,
+                              申请学校      学位                         专业   申请结果    入学年份   入学学期       通知时间                                                                                                                              TOEFL                                                                                                      GRE                                          本科学校档次    本科专业 本科成绩和算法.排名                                                                                                                                                                                                                            其他说明                                                                                                                              url
+Columbia University               :  387   MA     :2696   Law                       :1669   被拒  :2120   Min.   :2011   Fall  :12093   2015-03-13:  275                                                                                                                                   :2284                                                                                                          :3785   211 & 985                                      :2263   法学   :1697          : 1350                                                                                                                                                                                                                                  :3749   http://bbs.gter.net/forum.php?mod=viewthread&tid=1787809&extra=page%3D71%26filter%3Dtypeid%26typeid%3D158%26typeid%3D158       :   17  
+University of Southern California :  373   MS     :2687   Economics and Econometrics: 892   AD无奖:5746   1st Qu.:2015   Spring:   80   2015-03-10:  253   Overall: 97, 
                     R:  /
                     L:  /
                     S:  /
-                    W:         : 2312
-Overall: 106,
-                    R: 26 /
-                    L: 26 /
-                    S: 28 /
-                    W: 26: 2023
-Overall: 102,
-                    R: 30 /
-                    L: 30 /
-                    S: 19 /
-                    W: 23: 1734
-Overall: 104,
-                    R: 29 /
-                    L: 26 /
-                    S: 22 /
-                    W: 27: 1734
-Overall: 100,
-                    R: 25 /
-                    L: 29 /
-                    S: 22 /
-                    W: 24: 1445
-(Other)                                                                                                                         :16189
-                                                                                                       : 3961
-Overall: 323,
+                    W:          :  85   Overall: 325, 
                     V: 155 /
-                    Q: 168 /
-                    AW: 3.5: 2312
-Overall: 326,
-                    V: 158 /
-                    Q: 168 /
-                    AW: 3.0: 1740
-Overall: 330,
-                    V: 160 /
                     Q: 170 /
-                    AW: 3  : 1734
-Overall: 322,
+                    AW: 3  : 121   211                                            :1875          : 986   AA     :  298   我的背景之前发过（更详细请参考其他帖子），不同的是后面刷了一个国内私募的实习，在里面做经济研究，拿了推荐信。没有牛腿，后来没有找国外教授推荐，明尼苏达拿了校董推荐，可是呵呵还是没申到PhD。                                    :  63   http://bbs.gter.net/forum.php?mod=viewthread&tid=1788344&extra=page%3D71%26filter%3Dtypeid%26typeid%3D158%26typeid%3D158&page=2:   17  
+New York University               :  351   PhD    :2637   Architecture              : 573   AD小奖:1802   Median :2015   Summer:  171   2015-03-12:  224   Overall: 101, 
+                    R:  /
+                    L:  /
+                    S:  /
+                    W:         :  81   Overall: 322, 
                     V: 152 /
                     Q: 170 /
-                    AW: 3  : 1452
-Overall: 319,
-                    V: 149 /
+                    AW: 3  : 109   双非                                           :1702   经济学 : 401   3.5    :  152   一个regional conference best paper。GRE是几年前考的，没重考，虽然aw分数低的没法看，不过好像也没什么影响？现在还有几个学校现在还没消息（harvard, chicago）估计都炮灰了。基本上想在umich, ucla和princeton里面选，想听听大家意见！:  60   http://bbs.gter.net/forum.php?mod=viewthread&tid=1829927&extra=page%3D42%26filter%3Dtypeid%26typeid%3D158%26typeid%3D158       :   16  
+University of Michigan - Ann Arbor:  337   LLM    :2374   Chemistry                 : 499   offer :2676   Mean   :2015   NA 2015-03-05:  211   Overall: 105, 
+                    R: 29 /
+                    L: 29 /
+                    S: 23 /
+                    W: 24:  76   Overall: 320, 
+                    V:  /
+                    Q:  /
+                    AW:          :  91   浙大/复旦/南大/南开/武大/华中科大/上海交大/天大:1610   建筑学 : 325   87/100 :  111   无论文，无牛推，水科研，有一段在美国的交换经历。                                                                                                                                                                               :  56   http://bbs.gter.net/forum.php?mod=viewthread&tid=1814672&extra=page%3D40%26filter%3Dtypeid%26typeid%3D158%26typeid%3D158       :   15  
+Georgetown University             :  321   JD     : 347   Landscape Architecture    : 415   NA 3rd Qu.:2015   NA 2015-03-19:  208   Overall: 105, 
+                    R: 30 /
+                    L: 28 /
+                    S: 22 /
+                    W: 26:  63   Overall: 322, 
+                    V: 152 /
                     Q: 170 /
-                    AW: 3.0: 1445
-(Other)                                                                                                :19337
-
-本科学校档次:
-211 & 985                                      :7048
-211                                            :5522
-双非                                           :4759
-                                               :3014
-浙大/复旦/南大/南开/武大/华中科大/上海交大/天大:2322
-复旦大学                                       :2312
-(Other)                                        :7004
-
-本科专业:
-                        : 3201
-社会工作                : 2312
-英语                    : 2028
-贸易经济，市场营销辅修。: 1734
-Chemistry               : 1734
-信息管理与信息系统      : 1686
-(Other)                 :19286
-                         : 4934
-3.49（WES）              : 2023
-3.4（WES 3.61）辅修是3.62: 1734
-3.87, 2/20               : 1734
-3.42                     : 1445
-3.85/WES                 : 1445
-(Other)                  :18666
-                                                                                                                                                                                                                      : 9960
+                    AW: 3.5:  81                                                  :1555   英语   : 264   3.2    :  107   学术会议一次，出国交换一学期，RA/TA                                                                                                                                                                                            :  56   http://bbs.gter.net/forum.php?mod=viewthread&tid=1814742&extra=page%3D40%26filter%3Dtypeid%26typeid%3D158%26typeid%3D158&page=2:   15  
+Boston University                 :  318   MLA    : 247   US Law                    : 382   NA Max.   :2016   NA 2015-03-03:  207   Overall: 106, 
+                    R: 29 /
+                    L: 27 /
+                    S: 23 /
+                    W: 27:  63   Overall: 315, 
+                    V:  /
+                    Q:  /
+                    AW:          :  77   国内其他高校                                   : 640   化学   : 226   85/100 :   94   (Other)                                                                                                                                                                                                                        :8358   http://bbs.gter.net/forum.php?mod=viewthread&tid=1943199&extra=page%3D13%26filter%3Dtypeid%26typeid%3D158%26typeid%3D158       :   15  
+(Other)                           :10257   (Other):1356   (Other)                   :7914   NA NA NA (Other)   :10966   (Other)                                                                                                                         :9692   (Other)                                                                                                :8080   (Other)                                        :2699   (Other):8445   (Other):10232   NA's                                                                                                                                                                                                                           :   2   (Other)                                                                                                                        :12249  

@@ -1,0 +1,186 @@
+申请大学的数目统计前五十位：
+
+Columbia University                         387
+University of Southern California           373
+New York University                         351
+University of Michigan - Ann Arbor          337
+Georgetown University                       321
+Boston University                           318
+Washington University in St Louis           318
+Cornell University                          299
+University of Pennsylvania                  297
+Vanderbilt University                       283
+Duke University                             258
+University of Texas - Austin                255
+University of Illinois at Urbana-Champai    248
+University of Washington                    229
+University of California - Berkeley         222
+Northwestern University                     216
+University of California - Los Angeles      210
+University of Minnesota - Twin Cities       208
+George Washington University                192
+Emory University                            191
+University of Wisconsin                     167
+Harvard University                          160
+University of Chicago                       148
+Ohio State University                       132
+University of Florida                       130
+University of California - Davis            126
+University of Virginia                      125
+Johns Hopkins University                    125
+Texas A&M University                        125
+Syracuse University                         122
+Indiana University                          117
+Carnegie Mellon University                  111
+University of Pittsburgh                    109
+The Pennsylvania State University           107
+Northeastern University                      99
+Georgia Institute of Technology              88
+University of California - San Diego         85
+Stanford University                          84
+College of William & Mary                    84
+Yale University                              84
+University of Georgia                        82
+Tufts University                             81
+North Carolina State University              81
+Virginia Tech                                79
+Purdue University                            79
+London School of Economics and Political     75
+Fordham University                           67
+Clemson University                           66
+SUNY Stony Brook University                  65
+Arizona State University                     65
+
+
+
+本科专业前30:
+
+法学                     1697
+经济学                     401
+建筑学                     325
+英语                      264
+化学                      226
+法律                      217
+园林                      203
+城市规划                    143
+国际经济法                   114
+经济                      108
+国际经济与贸易                 106
+环境工程                    105
+建筑                      102
+土木工程                    101
+化学工程与工艺                  92
+新闻学                      83
+英语语言文学                   83
+高分子材料与工程                 81
+汉语言文学                    80
+Chemistry                79
+EE                       76
+药学                       73
+应用化学                     73
+新闻                       71
+材料科学与工程                  66
+信息与计算科学                  65
+自动化                      64
+经济学（第一学位）+应用数学（双学位）      63
+数学                       61
+对外汉语                     60
+
+
+申请的专业前三十：
+
+Law                                       1669
+Economics and Econometrics                 892
+Architecture                               573
+Chemistry                                  499
+Landscape Architecture                     415
+US Law                                     382
+Mechanical Engineering                     263
+Chemical Engineering                       260
+Electrical and Electronics Engineering     235
+Computer Science                           215
+Statistics                                 213
+LLM                                        157
+Public Policy Analysis                     151
+Public Administration                      148
+Civil Engineering                          148
+Environmental Engineering                  146
+Economics                                  126
+Materials Engineering                      122
+East Asian Languages and Literatures       116
+法学                                         112
+Teaching English as a Second Language      107
+Journalism                                  97
+Industrial Engineering                      90
+Urban, Community and Regional Planning      83
+Materials Science                           71
+Finance                                     71
+Public Relations                            67
+Agricultural Economics                      64
+Biochemistry and Molecular Biology          54
+Other                                       54
+
+
+申请的学位：
+
+MA          2696
+MS          2687
+PhD         2637
+LLM         2374
+JD           347
+MLA          247
+MEd          226
+其它            91
+Meng          88
+MPP           81
+MPH           70
+MPA           65
+M.Arch        51
+MFA           38
+MPhil         37
+Masters       32
+MArch         31
+MSW           26
+March         21
+March2        21
+MArch2        17
+BA            16
+mla           15
+MLA I         15
+MArch 2       14
+March 1       12
+MLA II        10
+bachelor      10
+MARCH         10
+MUP            8
+
+
+申请结果：
+
+AD无奖     5746
+offer    2676
+被拒       2120
+AD小奖     1802
+
+本科学校档次：
+
+211 & 985                      2263
+211                            1875
+双非                             1702
+浙大/复旦/南大/南开/武大/华中科大/上海交大/天大    1610
+国内其他高校                          640
+清华/北大/中科大                       471
+中国人民大学                          201
+中国农业大学                          141
+华东政法大学                          111
+国外高校（含港澳台）                       78
+中山大学                             70
+中国政法大学                           68
+北京化工大学                           62
+复旦大学                             62
+浙江大学                             62
+北京林业大学                           58
+南开大学                             49
+上海外国语大学                          42
+武汉大学                             40
+哈尔滨工业大学（威海）                      37
