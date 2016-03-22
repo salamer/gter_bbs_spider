@@ -39,6 +39,10 @@ CentOS:
 
     python engine.py
 
+将Mongodb内的数据导出成CSV:
+
+    python dbToCsv.py
+
 
 即可
 
