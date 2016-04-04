@@ -151,7 +151,7 @@ def get_data_from_english_bbs(url):
             i=0
             for item in status.find_all('th'):
                 if item.get_text()=="IELTS:":
-                    toefl=td_list[i].get_text().strip()
+                    ielts=td_list[i].get_text().strip()
                 if item.get_text()=="本科学校档次:":
                     undergraduate_school=td_list[i].get_text().strip()
                 if item.get_text()=="本科专业:":
