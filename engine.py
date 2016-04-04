@@ -13,7 +13,7 @@ from config import start_url,page_number
 def asyn_fetch(url_list):
     greenlets=[]
     for url in url_list:
-        greenlets.append(gevent.spawn(crawler.get_personal_data,url))
+        greenlets.append(gevent.spawn(crawler.get_data_from_english_bbs,url))
     gevent.joinall(greenlets)
 
 if __name__=="__main__":
