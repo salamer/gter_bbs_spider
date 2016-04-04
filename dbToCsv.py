@@ -9,7 +9,7 @@ import csv
 from db import personal_status,english_gter
 import time
 
-with open('go_english_to_study_data.csv',"wb") as f:
+with open('go_canada_to_study_data.csv',"wb") as f:
     start_time=time.time()
     csv_writer=csv.writer(f)
     csv_writer.writerow([
@@ -27,7 +27,7 @@ with open('go_english_to_study_data.csv',"wb") as f:
                 '本科成绩和算法，排名',
                 '其他说明',
                 'url'])
-    for status in english_gter.objects:
+    for status in personal_status.objects:
         csv_writer.writerow([
             status.applied_school,
             status.degree,
